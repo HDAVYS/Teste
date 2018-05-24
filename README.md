@@ -1,2 +1,2 @@
 # Teste
-Testando o GIT
+-- Testando o GIT --
