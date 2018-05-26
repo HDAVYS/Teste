@@ -1,7 +1,12 @@
 <project>
   <nome>Test Git</nome>
+<<<<<<< HEAD
   <versao>1.00<versao>
   <os>microsoft windows 10</os>
+=======
+  <versao>1.00<versao>
+  <os>microsoft windows 10</os>
+>>>>>>> issue_01
   <author>Harrison Davys</author>  
   <enterprise>TECPLANER</enterprise>
 </project>
