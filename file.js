@@ -14,3 +14,7 @@ var fc_deleteArquivo = file_s => {
 var fc_moveArquivo = (source, dest) => {
     console.log("Movendo Arquivo!!!");
 }
+
+var fc_formataArquivo = (file_s) => {
+    console.log("Formatando Arquivo");
+}
