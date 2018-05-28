@@ -1,11 +1,7 @@
 <project>
   <nome>Test Git</nome>
   <versao>2.00<versao>
-  <os>
-        <microsoft>microsoft windows xp</microsoft>
-        <microsoft>microsoft windows 8</microsoft>
-        <microsoft>microsoft windows 10</microsoft>
-  </os>
+  <os>Microsoft Windows 10</os>
   <author>Harrison Davys</author>  
   <enterprise>TECPLANER</enterprise>
 </project>
