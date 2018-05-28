@@ -22,3 +22,7 @@ var fc_moveArquivo = (source, dest) => {
 var fc_formataArquivo = (file_s) => {
     console.log("Formatando Arquivo");
 }
+
+var fc_movimentaPonteiro = () => {
+    console.log("Movimentando ponteiro do arquivo");
+}
