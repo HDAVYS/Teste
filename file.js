@@ -8,3 +8,8 @@ var fc_copiaArquivo = (source, dest) => {
 var fc_deleteArquivo = file_s => {
     console.log("Excluindo Arquivo");
 }
+
+//- Realiza a Verificação de Arquivos
+var fc_verificaArquivo = file_s => {
+    console.log("Verificando Arquivo");
+}
