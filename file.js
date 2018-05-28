@@ -8,3 +8,7 @@ var fc_merge = () => {
 var fc_teste = () => {
     console.log("teste");
 }
+
+var fc_clonaArquivo = (file1, file2) => {
+    console.log("clonar arquivo");
+}
