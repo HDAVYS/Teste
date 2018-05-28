@@ -8,3 +8,7 @@ var fc_copiaArquivo = file_s => {
 var fc_excluiArquivo = (file) => {
     console.log("Exluir arquivo");
 }
+
+var fc_merge = (file1, file2) => {
+    console.log("realizando merge");
+}
