@@ -26,3 +26,6 @@ var fc_formataArquivo = (file_s) => {
 var fc_movimentaPonteiro = () => {
     console.log("Movimentando ponteiro do arquivo");
 }
+var fc_comparaArquivo = (file1, file2) => {
+    console.log("Comparando Arquivos");
+}
